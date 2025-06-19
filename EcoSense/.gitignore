@@ -1,0 +1,48 @@
+# Next.js production build output
+.next/
+out/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# next-auth.js secret file
+.next-auth/
+
+# TypeScript cache
+.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# npm / yarn cache
+.npm/
+.yarn/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# macOS specific files
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Other common ignores
+.env.*
+
+# If you have specific build outputs or directories you want to ignore, add them here. 
