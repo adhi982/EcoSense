@@ -56,7 +56,7 @@ EcoSense is a Progressive Web App (PWA) that combines a household carbon footpri
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecosense.git
+git clone https://github.com/adhi982/ecosense.git
 cd ecosense
 ```
 
